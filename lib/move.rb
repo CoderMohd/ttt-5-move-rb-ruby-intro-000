@@ -13,4 +13,4 @@ index = user_input - 1
 end
 def move(board,pos,char = "X")
   board[position] = character
-end  
+end
